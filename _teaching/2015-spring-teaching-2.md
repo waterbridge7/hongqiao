@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Statistics computation"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "CSU, School of Mathmatics and Statistics"
+date: 2021, spring
 location: "City, Country"
 ---
 
