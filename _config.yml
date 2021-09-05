@@ -194,10 +194,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _services
   - scope:
       path: ""
-      type: posts
+      type: services
     values:
       layout: single
       author_profile: true
