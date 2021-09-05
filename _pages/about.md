@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lectuer in statistics department, School of Mathematicas and Statistiacs, Central South University.
+Now I'm a lecturer in School of Mathematics and Statistics at Central South Univercity. My research interests include Uncertainty Quantification, Bayesian inference, Optimal experimental design and Machine Learning.
 
 Education
 ======
@@ -19,6 +19,6 @@ Work experimence
 2019 - now. dd
 2018-2019. ss 
 
-For more info
+News
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info 
