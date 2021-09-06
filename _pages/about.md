@@ -21,11 +21,11 @@ Sept, 2007 - Jun, 2011, School of Physical Science and Technology, Lanzhou Unive
 
 Work experimence
 ======
-2019 - now.  School of Mathematics and Statistics, Central South University
+2019 - now.  Lecturer, School of Mathematics and Statistics, Central South University
 
-2018 - 2019. School of Data Science, City University of Hong Kong
+2018 - 2019. Postdoc, School of Data Science, City University of Hong Kong
 
 News
 ------
-- Sept, 2021  This persional homepage is online! 
+- Sept, 2021,  This persional homepage is online! 
 ---
