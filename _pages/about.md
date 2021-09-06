@@ -12,7 +12,7 @@ Now I'm a lecturer in School of Mathematics and Statistics at Central South Univ
 
 Education
 ======
-Sept, 2014 - Jun, 2018, School of Mathematical Sciences, Shanghai Jiao Tong University
+Sept, 2014 - Jun, 2018, School of Mathematical Sciences & Institute of Natural Sciences, Shanghai Jiao Tong University
 
 Sept, 2011 - Jun, 2014, Institute of Optics and Electronics, Chinese Academy of Sciences 
 
