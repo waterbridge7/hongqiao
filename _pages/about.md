@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Now I'm a lecturer in School of Mathematics and Statistics at Central South Univercity. My research interests include Uncertainty Quantification, Bayesian inference, Optimal experimental design and Machine Learning.
+Now I'm a lecturer in School of Mathematics and Statistics at Central South University. My research interests include Uncertainty Quantification, Bayesian inference, Optimal experimental design and Machine Learning.
 
 Education
 ======
-2007-2011
+Sept, 2014 - Jun, 2018, School of Mathematics Science, Shanghai Jiao Tong University
+Sept, 2011 - Jun, 2014, Institute of Optics and Electronics, Chinese Academy of Sciences
+Sept, 2007 - Jun, 2011, School of Physical Science and Technology, Lanzhou University
+
 
 Work experimence
 ======
-2019 - now. dd
-2018-2019. ss 
+2019 - now.  School of Mathematics and Statistics, Central South University
+2018 - 2019. School of Data Science, City University of Hong Kong
 
 News
 ------
-More info 
+Sept, 2021  This persional homepage is online! 
