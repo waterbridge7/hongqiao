@@ -13,10 +13,8 @@ Now I'm a lecturer in School of Mathematics and Statistics at Central South Univ
 Education
 ======
 Sept, 2014 - Jun, 2018, School of Mathematics Science, Shanghai Jiao Tong University
----
 
 Sept, 2011 - Jun, 2014, Institute of Optics and Electronics, Chinese Academy of Sciences 
----
 
 Sept, 2007 - Jun, 2011, School of Physical Science and Technology, Lanzhou University
 
@@ -24,7 +22,6 @@ Sept, 2007 - Jun, 2011, School of Physical Science and Technology, Lanzhou Unive
 Work experimence
 ======
 2019 - now.  School of Mathematics and Statistics, Central South University
-----
 
 2018 - 2019. School of Data Science, City University of Hong Kong
 
