@@ -20,3 +20,11 @@ work experimences
 2019 - now,  Lecturer, School of Mathematics and Statistics, Central South University
 
 2018 - 2019, Postdoc, School of Data Science, City University of Hong Kong
+
+Awards
+2021 Youth Science Fund Project, NSFC
+2018 Shanghai outstanding graduates
+2016 Omron Scholarship 
+2013 National scholarship for graduate students
+
+Services
