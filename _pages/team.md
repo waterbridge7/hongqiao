@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-Focus on the research about UQ by ML methods.
+Our team focus on the research about uncertainty quantification and Machine Learning.
 
 ## People
 
