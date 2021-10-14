@@ -4,7 +4,18 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+# Talks
 
+
+
+- 2019.9.19 Foshan,CSIAM 2019 
+- 201910.11 Guilin, National Symposium on Experimental Design and Statistical Science
+- 202020.31 Changsha, CSIAM 2020
+- 2021.4.7  CSUST, Changsha, Computational inverse problem and its application workshop
+- 2021.10.7 Hefei, CSIAM 2021
+- 2021.10.29 Shenzhen, Inverse problem 2021
+
+# Publications
 ## Statistical computation
 
 - Hongqiao Wang, Ziqiao Ao, Tengchao Yu, and Jinglai Li, Inverse Gaussian Process regression for likelihood-free inference, under review.
