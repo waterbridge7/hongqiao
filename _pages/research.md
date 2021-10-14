@@ -8,11 +8,11 @@ author_profile: true
 
 
 
-- 2019.9.19 Foshan,CSIAM 2019 
-- 201910.11 Guilin, National Symposium on Experimental Design and Statistical Science
-- 202020.31 Changsha, CSIAM 2020
-- 2021.4.7  CSUST, Changsha, Computational inverse problem and its application workshop
-- 2021.10.7 Hefei, CSIAM 2021
+- 2019.09.19 Foshan,CSIAM 2019 
+- 2019.10.11 Guilin, National Symposium on Experimental Design and Statistical Science
+- 2020.10.31 Changsha, CSIAM 2020
+- 2021.04.07 Changsha, CSUST, Computational inverse problem and its application workshop
+- 2021.10.07 Hefei, CSIAM 2021
 - 2021.10.29 Shenzhen, Inverse problem 2021
 
 # Publications
