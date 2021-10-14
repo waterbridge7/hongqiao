@@ -11,9 +11,12 @@ main:
     
   - title: "UQ&ML Team"
     url: /team/
-        
-  - title: "Services"
-    url: /services/
 
-  - title: "Information"
-    url: /information/
+  - title: "Personal Info"
+    url: /info/
+
+#  - title: "Services"
+#    url: /services/
+
+#  - title: "Information"
+#    url: /information/
