@@ -16,7 +16,7 @@ author_profile: true
 # Publications
 ## Statistical computation
 
-- Hongqiao Wang, Ziqiao Ao, Tengchao Yu, and Jinglai Li, Inverse Gaussian Process regression for likelihood-free inference, arXiv preprint.
+- Wang H, Ao Z, Yu T, and Li J, Inverse Gaussian Process regression for likelihood-free inference, arXiv preprint.
 
 - Wang H, Li J. Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions[J]. Neural computation, 2018, 30(11): 3072-3094.
 
