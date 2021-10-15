@@ -8,7 +8,7 @@ author_profile: true
 
 Education background
 ======
-- Sept, 2014 - Jun, 2018, School of Mathematical Sciences & Institute of Natural Sciences, Shanghai Jiao Tong University
+- Sept, 2014 - Jun, 2018, School of Mathematical Sciences & Institute of Natural Sciences, Shanghai Jiao Tong University（working with Prof. Li Jinglai）
 
 - Sept, 2011 - Jun, 2014, Institute of Optics and Electronics, Chinese Academy of Sciences 
 
@@ -19,7 +19,7 @@ Work experimences
 ======
 - 2019 - now,  Lecturer, School of Mathematics and Statistics, Central South University
 
-- 2018 - 2019, Postdoc, School of Data Science, City University of Hong Kong
+- 2018 - 2019, Postdoc, School of Data Science, City University of Hong Kong (working with Prof. Zhou Xiang)
 
 Awards
 ======
