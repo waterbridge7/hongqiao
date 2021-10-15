@@ -18,9 +18,9 @@ UQ&ML team will focus on the research about uncertainty quantification and machi
 - Kunyu Wu (joint with Prof. Yong Jiao, 2021-present)
 - Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-present)
 
-### former undergraduate students
+### Former undergraduate students
 
-- Qibiao Zhang (Class 2020, M.S., Renmin University of China)
-- Yutong Gan (Class 2020, M.S., Hokkaido University)
-- Chengling Feng (Class 2020, M.S., Shanghai Jiao Tong University)
-- Yuchong Wang (Class 2021, M.S., National University of Singapore)
+- Qibiao Zhang (2020, M.S., Renmin University of China)
+- Yutong Gan (2020, M.S., Hokkaido University)
+- Chengling Feng (2020, M.S., Shanghai Jiao Tong University)
+- Yuchong Wang (2021, M.S., National University of Singapore)
