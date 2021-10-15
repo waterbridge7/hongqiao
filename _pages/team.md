@@ -1,39 +1,26 @@
 ---
 layout: archive
-title: "Uncertainty quantification and Machine Learning Team"
+title: "Uncertainty Quantification and Machine Learning Team"
 permalink: /team/
 author_profile: true
 ---
 
-Our team focus on the research about uncertainty quantification and Machine Learning.
+UQ&ML team will focus on the research about uncertainty quantification and machine learning.
 
 ## People
 
-### Postgraduate students:
+###  M.S. students
 
-#### 2019
+- Ying Zhou (joint with Prof. Lian Wu, 2020-present)
+- Hongji Wang (joint with Prof. Tiexin Guo, 2021-present)
+- Zheng Hu (joint with Prof. Tiexin Guo, 2021-present)
+- Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
+- Kunyu Wu (joint with Prof. Yong Jiao, 2021-present)
+- Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-present)
 
-- Ying Zhou
+### former undergraduate students
 
-#### 2020
-
-- Hongji Wang
-- Zheng Hu
-
-#### 2021
-
-- Jingyu Yang
-- Kunyu Wu
-- Juan Cheng
-
-### Undergraduate students
-
-#### 2016
-
-- Qibiao Zhang (Renmin University of China)
-- Yutong Gan (Hokkaido University)
-- Chengling Feng (Shanghai Jiao Tong University)
-
-#### 2017
-
-- Yuchong Wang (National University of Singapore)
+- Qibiao Zhang (2020, M.S, Renmin University of China)
+- Yutong Gan (2020, M.S, Hokkaido University)
+- Chengling Feng (2020, M.S, Shanghai Jiao Tong University)
+- Yuchong Wang (2021, M.S, National University of Singapore)
