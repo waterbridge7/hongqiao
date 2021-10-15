@@ -27,7 +27,7 @@ author_profile: true
 ## Computational mathmatics
 - nothing
 -->  
-## Parameter estimation in Differential Equation
+## Parameter estimation in differential equation
 
 - Wang H, Zhou X. Explicit estimation of derivatives from data and differential equations by gaussian process regression[J]. International Journal for Uncertainty Quantification, 2021, 11(4).
 
@@ -37,6 +37,6 @@ author_profile: true
 ## Failure probability estimation
 - Wang H, Lin G, Li J. Gaussian process surrogates for failure detection: A Bayesian experimental design approach[J]. Journal of Computational Physics, 2016, 313: 247-259.
 
-## Tansition State and Minimum Energy Path calcualtion
+## Tansition state and minimum energy path calcualtion
 
 - Gu S, Wang H, Zhou X. Active Learning for Transition State Calculation, arXiv preprint.
