@@ -9,5 +9,5 @@ author_profile: true
 - undergraduate course, autumn, 2020, School of Mathmatics and Statistics, CSU
 - undergraduate course, autumn, 2021, School of Mathmatics and Statistics, CSU
   
-## Statistics computation
+## Statistical computation
 - undergraduate course, spring, 2021, School of Mathmatics and Statistics, CSU
