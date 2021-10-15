@@ -12,7 +12,7 @@ Now I'm a lecturer in School of Mathematics and Statistics at Central South Univ
 
 
 
-news
+News
 ------
-- Sept, 2021,  This persional homepage is online! 
+- Oct 15, 2021,  This persional homepage is online! 
 ---
