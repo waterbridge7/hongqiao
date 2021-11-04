@@ -8,9 +8,9 @@ author_profile: true
 UQ&ML team will focus on the research about uncertainty quantification (UQ) and machine learning (ML).
 
 ## 关于招生
-欢迎对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
+每年预计有两个硕士招生指标（分别是统计学和应用统计专业）。欢迎对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
 
-关于 UQ&ML 小组的一些提示:
+关于 UQ&ML 小组的几点提示:
 - 每周将有组会进行文献分享和课题进展讨论
 - 成员需要具有一定的python代码实现能力
 
