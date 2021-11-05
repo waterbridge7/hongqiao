@@ -13,7 +13,7 @@ Now I'm a lecturer in School of Mathematics and Statistics at Central South Univ
 News
 ------
 
-- Dec 05, 2021,  Weclome Mengyao Liu and Xiao Zhang to join the UQ&ML Team. They will enroll in September 2022.  
+- Dec 05, 2021,  Weclome Mengyao Liu and Xiao Zhang to join the UQ&ML Team! They will enroll in September 2022.  
 - Oct 15, 2021,  This persional homepage is online! 
   
 ---
