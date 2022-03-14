@@ -21,7 +21,7 @@ author_profile: true
 
 - Wang H, Li J. Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions[J]. Neural computation, 2018, 30(11): 3072-3094.
 
-- Yu T, Wang H, Li J. Maximizing conditional entropy of Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, to appear
+- Yu T, Wang H, Li J. Maximum conditional entropy Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, 2021, 43(5): A3607-A3626.
 
 <!-- Cai X, Xiong J, Wang H, Li J. CONTROL VARIATES WITH A DIMENSION REDUCED-BAYESIAN MONTE CARLO SAMPLER, 
 
