@@ -11,3 +11,6 @@ author_profile: true
   
 ## Statistical computation
 - undergraduate course, spring, 2021, School of Mathmatics and Statistics, CSU
+
+## Statistical Learning
+- graduate course, autumn, 2022, School of Mathmatics and Statistics, CSU
