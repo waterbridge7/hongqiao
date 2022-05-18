@@ -12,7 +12,7 @@ Now I'm a lecturer in School of Mathematics and Statistics at Central South Univ
 
 News
 ------
-
+- May. 18, 2022, Contratulations to Ying Zhou for being admitted to Business School, CSU for her Ph.D!
 - Nov. 05, 2021,  Weclome Mengyao Liu and Xiao Zhang to join the UQ&ML Team! They will enroll in September 2022.  
 - Oct. 15, 2021,  This persional homepage is online! 
   

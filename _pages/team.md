@@ -8,7 +8,7 @@ author_profile: true
 UQ&ML team will focus on the research about uncertainty quantification (UQ) and machine learning (ML).
 
 ## 关于招生
-每年预计有两个硕士招生指标（分别是统计学和应用统计专业）。欢迎对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
+每年预计有三个硕士招生指标，欢迎具有数学、统计学、物理学或计算机背景且对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
 
 关于 UQ&ML 小组的几点提示:
 - 每周将有组会进行文献分享和课题进展讨论
@@ -21,7 +21,7 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Ying Zhou (joint with Prof. Lian Wu, 2020-present)
 - Hongji Wang (joint with Prof. Tiexin Guo, 2021-present)
 - Zheng Hu (joint with Prof. Tiexin Guo, 2021-present)
-- Jingyu Yang (joint with Prof. Hebai Chen, 2021-2022,3)
+- Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
 - Kunyu Wu (joint with Prof. Yong Jiao, 2021-present)
 - Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-present)
 
