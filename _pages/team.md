@@ -31,3 +31,6 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Yutong Gan (2020, M.S., Hokkaido University)
 - Chengling Feng (2020, M.S., Shanghai Jiao Tong University)
 - Yuchong Wang (2021, M.S., National University of Singapore)
+- Zirui Li (2022,)
+- Xiao Zhang(2022, M.S., Central South University)
+- Dezhao Yang(2022, M.S., The Chinese University of Hong Kong, Shenzhen)
