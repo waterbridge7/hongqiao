@@ -19,6 +19,11 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 ###  M.S. students
 
 - Ying Zhou (joint with Prof. Lian Wu, 2020-present)
+  
+  ![Ying Zhou](../images/students/Ying_Zhou.png)
+
+  <img src="http:../images/students/Ying_Zhou.png">
+
 - Hongji Wang (joint with Prof. Tiexin Guo, 2021-present)
 - Zheng Hu (joint with Prof. Tiexin Guo, 2021-present)
 - Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
