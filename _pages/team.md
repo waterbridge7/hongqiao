@@ -24,7 +24,7 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
 - <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> Kunyu Wu (joint with Prof. Yong Jiao, 2021-present)
 - <img src="../images/students/Juan_Cheng.jpg" width="100"  align=center/> Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-present)
-
+- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> Run Zhang (joint with Prof. Junping Li, 2022-present)
 ### Former undergraduate students
 
 - Qibiao Zhang (2020, M.S., Renmin University of China)
