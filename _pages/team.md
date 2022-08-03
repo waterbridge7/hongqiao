@@ -18,7 +18,6 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 
 ###  M.S. students
 
-- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> Ying Zhou (joint with Prof. Lian Wu, 2020-2022, Ph.D, Central South University)
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2021-present)
 - <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> Zheng Hu (joint with Prof. Tiexin Guo, 2021-present)
 - <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
@@ -27,6 +26,10 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> Run Zhang (joint with Prof. Junping Li, 2022-present)
 - <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
 - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
+
+### Former M.S. students
+
+- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> Ying Zhou (joint with Prof. Lian Wu, 2020-2022, Ph.D, Central South University)
 ### Former undergraduate students
 
 - Qibiao Zhang (2020, M.S., Renmin University of China)
