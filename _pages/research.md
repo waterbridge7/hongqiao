@@ -32,7 +32,7 @@ author_profile: true
 
 - Wang H, Zhou X. Explicit estimation of derivatives from data and differential equations by gaussian process regression[J]. International Journal for Uncertainty Quantification, 2021, 11(4).
 
-- Zhou Y, Wang H. Inferring the unknown parameters in Differential Equation by Gaussian Process Regression with Constraint, arXiv preprint.
+- Zhou, Y., Zhou, Q. & Wang, H. Inferring the unknown parameters in differential equation by Gaussian process regression with constraint. Comp. Appl. Math. 41, 280 (2022).
 
 
 ## Failure probability estimation
