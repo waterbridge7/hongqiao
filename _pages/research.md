@@ -23,11 +23,8 @@ author_profile: true
 
 - Yu T, Wang H, Li J. Maximum conditional entropy Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, 2021, 43(5): A3607-A3626.
 
-<!-- Cai X, Xiong J, Wang H, Li J. CONTROL VARIATES WITH A DIMENSION REDUCED-BAYESIAN MONTE CARLO SAMPLER, 
+- Cai X, Xiong J, Wang H, et al. CONTROL VARIATES WITH A DIMENSION REDUCED BAYESIAN MONTE CARLO SAMPLER[J]. International Journal for Uncertainty Quantification, 2022, 12(4). 
 
-## Computational mathmatics
-- nothing
--->  
 ## Parameter estimation in differential equation
 
 - Wang H, Zhou X. Explicit estimation of derivatives from data and differential equations by gaussian process regression[J]. International Journal for Uncertainty Quantification, 2021, 11(4).
