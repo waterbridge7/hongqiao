@@ -42,5 +42,6 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Dezhao Yang(2022, M.S., The Chinese University of Hong Kong, Shenzhen)
 
 ### Team building
-  Hiking at Changsha Yanghu National Wetland Park (Oct.18, 2022)
-- <img src="../images/team_picture/WechatIMG645.jpeg" width="400"  align=center/> 
+  Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
+
+ <img src="../images/team_picture/WechatIMG645.jpeg" width="400"  align=center/> 
