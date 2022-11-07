@@ -19,11 +19,11 @@ author_profile: true
 
 - Wang H, Ao Z, Yu T, and Li J, Inverse Gaussian Process regression for likelihood-free inference, arXiv preprint.
 
-- Wang H, Li J. Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions[J]. Neural computation, 2018, 30(11): 3072-3094.
+- Wang H, Li J. Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions[J]. Neural Computation, 2018, 30(11): 3072-3094.
 
 - Yu T, Wang H, Li J. Maximum conditional entropy Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, 2021, 43(5): A3607-A3626.
 
-- Cai, X., Xiong, J., Wang, H., & Li, J. (2022). CONTROL VARIATES WITH A DIMENSION REDUCED BAYESIAN MONTE CARLO SAMPLER. International Journal for Uncertainty Quantification, 12(4).
+- Cai, X., Xiong, J., Wang, H., & Li, J. (2022). Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantification, 12(4).
 
 ## Parameter estimation in differential equation
 
