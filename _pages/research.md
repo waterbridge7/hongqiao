@@ -37,4 +37,4 @@ author_profile: true
 
 ## Tansition state and minimum energy path calcualtion
 
-- Gu S, Wang H, Zhou X. Active Learning for Saddle Point Calculation, Journal of Scientific Computing, to appear.
+- Gu S, Wang H, Zhou X. Active Learning for Saddle Point Calculation[J]. Journal of Scientific Computing, 2022, 93(3): 1-24.
