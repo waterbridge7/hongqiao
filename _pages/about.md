@@ -12,6 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
+- Apr. 3, 2023,  Weclome Jiale Xu and Beibei Chen to join the UQ&ML Team! They will enroll in September 2023.  
 - Sep. 18, 2022,  Weclome Zhiwen Xiao and Jinfu Ye to join the UQ&ML Team! They will enroll in September 2023.  
 - Aug. 14, 2022, Congratulations to Ying Zhou! Her paper "Inferring the unknown parameters in differential equation by Gaussian process regression with constraint" was successfully published in Computational and Applied Mathematics.
 - May. 18, 2022, Contratulations to Ying Zhou for being admitted to Business School, CSU for her Ph.D!

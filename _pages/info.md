@@ -27,9 +27,6 @@ Awards
 ======
 - 2022 Youth Science Fund Project, NSF of Hunan Province
 - 2021 Youth Science Fund Project, NSFC
-- 2018 Shanghai outstanding graduates
-- 2016 Omron Scholarship 
-- 2013 National scholarship for graduate students
 
 Services
 ======
