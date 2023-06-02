@@ -41,7 +41,11 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Zirui Li (2022, North China Electric Power University)
 - Xiao Zhang(2022, M.S., Central South University)
 - Dezhao Yang(2022, M.S., The Chinese University of Hong Kong, Shenzhen)
-- 
+- Zhiwen Xiao (2023, M.S., Central South University)
+- Jinfu Ye (2023, M.S., Central South University)
+- Yuanyuan Cao (2023, M.S., Shanghai University of Finance and Economics)
+- Yueqing Yuan (2023, M.S., Xiamen University)
+- Hongyi Guo (2023, M.S., Shenzhen University)
 
 ### Team building
   Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
