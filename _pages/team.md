@@ -56,6 +56,6 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 
  <img src="../images/team_picture/WechatIMG645.jpeg" width="400"  align=center/> 
 
- Vacation at Plum Garden Villa (Jun. 21, 2023)
+ Vacation at a Garden Villa (Jun. 21, 2023)
 
  <img src="../images/team_picture/vocation_20230629152238.jpeg" width="400"  align=center/> 
