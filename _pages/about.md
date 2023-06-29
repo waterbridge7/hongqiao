@@ -12,6 +12,8 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
+- Jun. 29, 2023, Contratulations to Hongji Wang for being admitted to School of Mathematics and Statistics, CSU for his Ph.D!
+- Jun. 29, 2023, Congratulations to Zheng Hu and Hongji Wang on their graduation.
 - Apr. 3, 2023,  Weclome Jiale Xu and Beibei Chen to join the UQ&ML Team! They will enroll in September 2023.  
 - Sep. 18, 2022,  Weclome Zhiwen Xiao and Jinfu Ye to join the UQ&ML Team! They will enroll in September 2023.  
 - Aug. 14, 2022, Congratulations to Ying Zhou! Her paper "Inferring the unknown parameters in differential equation by Gaussian process regression with constraint" was successfully published in Computational and Applied Mathematics.
