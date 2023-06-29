@@ -19,6 +19,7 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 
 ###  Ph.D. students
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
+  
 ###  M.S. students
 
 
