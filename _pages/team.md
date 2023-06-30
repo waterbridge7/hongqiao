@@ -29,6 +29,11 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> Run Zhang (joint with Prof. Junping Li, 2022-present)
 - <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
 - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
+- <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> Pucheng Tang (joint with Prof. Yong Jiao, 2022-present)
+- <img src="../images/students/xujiale.jpg" width="100"  align=center/> Jiale Xu (2023-present)
+- <img src="../images/students/chenbeibei.jpg" width="100"  align=center/> Beibei Chen (2023-present)
+- <img src="../images/students/xiaozhiwen.jpg" width="100"  align=center/> Zhiwen Xiao (2023-present)
+- <img src="../images/students/yejinfu.jpg" width="100"  align=center/> Jinfu Ye (2023-present)
 
 ### Former M.S. students
 
