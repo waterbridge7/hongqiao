@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Talks
+- 2023.08.19 Tokyo, ICIAM2023 Tokyo
 - 2023.05.29 Shenzhen, The 12th National Conference on Inverse Problems, Imaging and Applications
 - 2021.10.07 Hefei, CSIAM 2021
 - 2021.04.07 Changsha, CSUST, Computational inverse problem and its application workshop
@@ -35,7 +36,7 @@ author_profile: true
 ## Failure probability estimation
 - Wang H, Lin G, Li J. Gaussian process surrogates for failure detection: A Bayesian experimental design approach[J]. Journal of Computational Physics, 2016, 313: 247-259.
 
-- Wang H., Guo T., Li J. and Wang H. Adaptive design of experiment via normalizing flows for failure probability estimation. arXiv preprint.
+- Guo T., Wang H., Li J. and Wang H. Adaptive design of experiment via normalizing flows for failure probability estimation, accepted, Reliability Engineering and System Safety.
 
 ## Tansition state and minimum energy path calcualtion
 
