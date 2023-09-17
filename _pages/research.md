@@ -36,7 +36,7 @@ author_profile: true
 ## Failure probability estimation
 - Wang H, Lin G, Li J. Gaussian process surrogates for failure detection: A Bayesian experimental design approach[J]. Journal of Computational Physics, 2016, 313: 247-259.
 
-- Guo T., Wang H., Li J. and Wang H. Adaptive design of experiment via normalizing flows for failure probability estimation, accepted, Reliability Engineering and System Safety.
+- Guo T., Wang H., Li J. and Wang H. Sampling-based adaptive design strategy for failure probability estimation, accepted, Reliability Engineering and System Safety.
 
 ## Tansition state and minimum energy path calcualtion
 
