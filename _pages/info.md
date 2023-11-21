@@ -15,7 +15,7 @@ Education background
 - Sept, 2007 - Jun, 2011, School of Physical Science and Technology, Lanzhou University
 
 
-Work experimences
+Work experiences
 ======
 - 2022 - now,  Associate professor, School of Mathematics and Statistics, Central South University
   
