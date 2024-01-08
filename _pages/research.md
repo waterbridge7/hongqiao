@@ -25,7 +25,7 @@ author_profile: true
 
 - Yu Tengchao, **Wang Hongqiao** and Li Jinglai*. Maximum conditional entropy Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, 2021, 43(5): A3607-A3626.
 
-- Cai Xin, Xiong Junda, **Wang Hongqiao*** and Li Jinglai (2022). Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantification, 12(4).
+- Cai Xin, Xiong Junda, **Wang Hongqiao*** and Li Jinglai. Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantificationr[J]. International Journal for Uncertainty Quantification, 2022, 12(4).
 
 ## Parameter inference and inverse problem
 
@@ -43,7 +43,7 @@ author_profile: true
 ## Failure probability estimation
 - **Wang Hongqiao**, Lin Guang and Li Jinglai*. Gaussian process surrogates for failure detection: A Bayesian experimental design approach[J]. Journal of Computational Physics, 2016, 313: 247-259.
 
-- Guo Tiexin, Wang Hongji, Li Jinglai and **Wang Hongqiao***. Sampling-based adaptive design strategy for failure probability estimation, accepted, Reliability Engineering and System Safety.
+- Guo Tiexin, Wang Hhongji, Li Jinglai and **Wang Hongqiao***. Sampling-based adaptive design strategy for failure probability estimation[J]. Reliability Engineering & System Safety, 2024, 241: 109664.
 
 ## Tansition state and minimum energy path calcualtion
 
