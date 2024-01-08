@@ -37,9 +37,12 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 
 ### Former M.S. students
 
-- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> Ying Zhou (joint with Prof. Lian Wu, 2020-2022. Future carrer: Ph.D, Central South University)
-- <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future carrer: Ph.D, Central South University)
-- <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023.  Future carrer: government staff)
+<!-- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> -->
+- Ying Zhou (joint with Prof. Lian Wu, 2020-2022. Future carrer: Ph.D, Central South University)
+<!-- - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> -->
+- Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future carrer: Ph.D, Central South University)
+<!-- - <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> -->
+- Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023.  Future carrer: government staff)
   
 ### Former undergraduate students
 
