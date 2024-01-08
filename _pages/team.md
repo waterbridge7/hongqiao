@@ -57,14 +57,14 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Hongyi Guo (2023, M.S., Shenzhen University)
 
 ### Team building
-  Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
-
- <img src="../images/team_picture/WechatIMG645.jpeg" width="400"  align=center/> 
-
- Vacation at a Garden Villa (Jun. 21, 2023)
-
- <img src="../images/team_picture/vocation_20230629152238.jpg" width="400"  align=center/> 
-
  BBQ (Nov. 1, 2023)
 
- <img src="../images/team_picture/2023_11_1.jpg" width="400"  align=center/> 
+<img src="../images/team_picture/2023_11.jpg" width="400"  align=center/> 
+
+Vacation at a Garden Villa (Jun. 21, 2023)
+
+<img src="../images/team_picture/2023_6.jpg" width="400"  align=center/> 
+ 
+Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
+
+<img src="../images/team_picture/2022_autumn.jpeg" width="400"  align=center/> 
