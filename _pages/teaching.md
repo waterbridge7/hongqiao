@@ -11,9 +11,18 @@ author_profile: true
 ## Statistical computation
 - undergraduate course, Spring semester, 2021-2022, School of Mathmatics and Statistics, CSU
 
+## Sampling technique and experimental design
+- undergraduate course, Spring semester, 2024, School of Mathmatics and Statistics, CSU
+
+## Linear Algebra
+- undergraduate course, Spring semester, 2023, Civil Engineering, CSU
+
 ## Statistical Learning
 - graduate course, Spring semester, 2023, School of Mathmatics and Statistics, CSU
 - graduate course, Fall semester, 2023, School of Mathmatics and Statistics, CSU
 
-## Linear Algebra
-- undergraduate course, Spring semester, 2023, Civil Engineering, CSU
+## Statistical inversion
+- graduate course, Fall semester, 2023, School of Mathmatics and Statistics, CSU
+
+## Modern statistical learning theory
+- graduate course, Spring semester, 2024, School of Mathmatics and Statistics, CSU
