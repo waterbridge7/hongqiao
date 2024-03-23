@@ -33,7 +33,7 @@ author_profile: true
 
 - Zhou Qingping, Xu Guixian, Wen Zhexin and **Wang Hongqiao***. Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arxiv.
 
-- Hu Zheng, **Wang Hongqiao*** and Zhou Qingping. A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. under review.
+- Hu Zheng, **Wang Hongqiao*** and Zhou Qingping. A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. accepted for publication in Journal of Computational Physics.
 
 - **Wang Hongqiao*** and Zhou Xiang. Explicit estimation of derivatives from data and differential equations by gaussian process regression[J]. International Journal for Uncertainty Quantification, 2021, 11(4).
 

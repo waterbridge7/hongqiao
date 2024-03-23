@@ -12,6 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
+- Mar. 23, 2024, Congratulations to Zheng Hu! His paper " A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion" was accepted for publication in Journal of Computational Physics.
 - Sep. 16, 2023, Congratulations to Hongji Wang! His paper " Sampling-based adaptive design strategy for failure probability estimation" was accepted by Reliability Engineering and System Safety.
 - Jun. 29, 2023, Contratulations to Hongji Wang for being admitted to School of Mathematics and Statistics, CSU for his Ph.D!
 - Jun. 29, 2023, Congratulations to Zheng Hu and Hongji Wang on their graduation.
