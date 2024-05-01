@@ -27,6 +27,8 @@ author_profile: true
 
 - Cai Xin, Xiong Junda, **Wang Hongqiao*** and Li Jinglai. Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantificationr[J]. International Journal for Uncertainty Quantification, 2022, 12(4).
 
+- Ying Jingyong, Xie Yaqi, Li Jiao, Wang Hongqiao. Accurate adaptive deep learning method for solving elliptic problems. arXiv:2404.18838.
+
 ## Parameter inference and inverse problem
 
 - Cai Xin, Yang Jingyu, Li Zhibao and **Wang Hongqiao***. Simulation-based transition density approximation for the inference of SDE models, arxiv.
