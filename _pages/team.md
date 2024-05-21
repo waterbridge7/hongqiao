@@ -71,3 +71,7 @@ Vacation at a Garden Villa (Jun. 21, 2023)
 Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 
 <img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/> 
+
+UQ Team building (May. 20, 2024)
+
+<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
