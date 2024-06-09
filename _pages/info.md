@@ -25,8 +25,9 @@ Work experiences
 
 Awards
 ======
-- 2022 Youth Science Fund Project, NSF of Hunan Province
-- 2021 Youth Science Fund Project, NSFC
+- 2023.5- 2027.5 Member of the Special Committee on Uncertainty Quantification of CSIAM
+- 2022  - 2024 Youth Science Fund Project, NSF of Hunan Province
+- 2022  - 2024 Youth Science Fund Project, NSFC
 
 Services
 ======
