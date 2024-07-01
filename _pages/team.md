@@ -19,14 +19,9 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 
 ###  Ph.D. students
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
-  
+- <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/>  Kunyu Wu (joint with Prof. Yong Jiao, 2024-present)
 ###  M.S. students
 
-
-- <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> Jingyu Yang (joint with Prof. Hebai Chen, 2021-present)
-- <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> Kunyu Wu (joint with Prof. Yong Jiao, 2021-present)
-- <img src="../images/students/Juan_Cheng.jpg" width="100"  align=center/> Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-present)
-- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> Run Zhang (joint with Prof. Junping Li, 2022-present)
 - <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
 - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
 - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> Pucheng Tang (joint with Prof. Yong Jiao, 2022-present)
@@ -43,6 +38,14 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future carrer: Ph.D, Central South University)
 <!-- - <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> -->
 - Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023.  Future carrer: government staff)
+<!-- <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> -->
+- Jingyu Yang (joint with Prof. Hebai Chen, 2021-2024.  Future carrer: ioe)
+<!--  <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> -->
+- Kunyu Wu (joint with Prof. Yong Jiao, 2021-2024. Future carrer: Ph.D, Central South University)
+<!-- <img src="../images/students/Juan_Cheng.jpg" width="100"  align=center/> -->
+- Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-2024)
+<!-- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> -->
+- Run Zhang (joint with Prof. Junping Li, 2022-2024)
   
 ### Former undergraduate students
 
@@ -58,6 +61,12 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 - Yuanyuan Cao (2023, M.S., Shanghai University of Finance and Economics)
 - Yueqing Yuan (2023, M.S., Xiamen University)
 - Hongyi Guo (2023, M.S., Shenzhen University)
+- Yu Fu （2024, M.S.）
+- Chuyun Peng （2024, M.S., Sun Yat-sen University）
+- Yihang Yin (2024, M.S., The University of Edinburgh)
+- Shanmei Zhong (2024, M.S., Peking University)
+- Wei Zhou (2024, M.S., Zhejiang University)
+- Yinzhi Wang (2024, M.S., Shanghai University of Finance and Economics)
 
 ### Team building
  BBQ (Nov. 1, 2023)
