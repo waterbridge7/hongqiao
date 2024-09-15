@@ -5,15 +5,22 @@ permalink: /team/
 author_profile: true
 ---
 
-UQ&ML team will focus on the research about uncertainty quantification (UQ) and machine learning (ML).
+UQ&ML team will focus on the research about machine learning (ML), uncertainty quantification (UQ) and AI for Science.
+
+## Uncertainty quantification (UQ)
+
+UQ is the science of quantitative characterization and estimation of uncertainties in both computational and real world applications. It tries to determine how likely certain outcomes are if some aspects of the system are not exactly known. (from Wiki)
+
 
 ## 关于招生
-每年招收两名硕士生（计算数学，统计学，应用统计学），欢迎具有数学、统计学、物理学或计算机背景且对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
+每年招收两名硕士生（学位可以是数学，统计学或应用统计学），欢迎具有数学、统计学、物理学或计算机背景且对统计计算、不确定性量化、机器学习等相关领域感兴趣的同学报考。
 
-关于 UQ&ML 小组的几点提示:
-- 每周将有组会进行文献分享和课题进展讨论；
-- 成员需要具有一定的python代码实现能力；
-- 成员硕士毕业后有机会被推荐至英国、美国及香港的高校继续深造，欢迎有志于科研的同学加入；
+关于 UQ&ML 小组的几点提示：
+
+- 每周定期举行组会，进行文献分享和课题进展讨论。每位成员负责一个独立课题，要求具备较强的自驱力和坚韧性。
+- 成员需具备一定的 Python 编程能力，部分课题还需掌握 C++。对于希望毕业后从事算法岗位的同学，这是一次极好的实践机会。
+- 毕业要求为撰写具有一定创新性的毕业论文。
+- 硕士毕业后，优秀成员有机会推荐至英国、美国或香港的高校继续深造。欢迎有志于科研的同学加入我们。
 
 ## People
 

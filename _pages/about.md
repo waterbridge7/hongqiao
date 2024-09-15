@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Now I'm an associate professor in School of Mathematics and Statistics at Central South University. My research interests include uncertainty quantification, Bayesian inference, optimal experimental design and machine learning.
+Now I'm an associate professor in School of Mathematics and Statistics at Central South University. My research interests include machine learning, uncertainty quantification, Bayesian inference and optimal experimental design.
 
 News
 ------
