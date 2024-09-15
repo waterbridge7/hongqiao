@@ -18,6 +18,9 @@ UQ&ML team will focus on the research about uncertainty quantification (UQ) and 
 ## People
 
 ###  Ph.D. students
+- <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
+- <img src="../images/students/Shiyang_bian.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
+- <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
 - <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/>  Kunyu Wu (joint with Prof. Yong Jiao, 2024-present)
 ###  M.S. students
