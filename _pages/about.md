@@ -12,7 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
-- Sep. 15, 2024,  Weclome Shiyang Bian, Ziyan Huang and Yufan Chen to join the UQ&ML Team! 
+- Sep. 15, 2024,  Weclome Shiyang Bian, Ziyan Huang and Yufan Zhang to join the UQ&ML Team! 
 - Jul. 1, 2024, Contratulations to Kunyu Wu for being admitted to School of Mathematics and Statistics, CSU for his Ph.D!
 - Jul. 1, 2024, Congratulations to Jingyu Yang, Run Zhang, Juan Cheng and Kunyu Wu on their graduation.
 - Mar. 23, 2024, Congratulations to Zheng Hu! His paper " A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion" was accepted for publication in Journal of Computational Physics.
