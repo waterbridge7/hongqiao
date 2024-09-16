@@ -25,13 +25,14 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 ## People
 
 ###  Ph.D. students
-- <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
-- <img src="../images/students/Shiyang_bian.jpg" width="100"  align=center/> Shiyang Bian (2024-present)
-- <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
+
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
 - <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/>  Kunyu Wu (joint with Prof. Yong Jiao, 2024-present)
 ###  M.S. students
 
+- <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
+- <img src="../images/students/Shiyang_bian.jpg" width="100"  align=center/> Shiyang Bian (2024-present)
+- <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
 - <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
 - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
 - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> Pucheng Tang (joint with Prof. Yong Jiao, 2022-present)
