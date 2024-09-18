@@ -31,6 +31,8 @@ author_profile: true
 
 ## Parameter inference and inverse problem
 
+- Zhou Ying, Li Jinglai, Zhou Xiang and **Wang Hongqiao**. Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.
+
 - Cai Xin, Yang Jingyu, Li Zhibao and **Wang Hongqiao***. Simulation-based transition density approximation for the inference of SDE models, arxiv.
 
 - Zhou Qingping, Xu Guixian, Wen Zhexin and **Wang Hongqiao***. Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arxiv.
