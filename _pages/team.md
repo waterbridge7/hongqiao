@@ -31,7 +31,7 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 ###  M.S. students
 
 - <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
-- <img src="../images/students/Shiyang_bian.jpg" width="100"  align=center/> Shiyang Bian (2024-present)
+- <img src="../images/students/Shiyang_bian.png" width="100"  align=center/> Shiyang Bian (2024-present)
 - <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
 - <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
 - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
