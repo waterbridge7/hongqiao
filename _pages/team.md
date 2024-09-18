@@ -80,6 +80,11 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - Yinzhi Wang (2024, M.S., Shanghai University of Finance and Economics)
 
 ### Team building
+
+UQ Team building (May. 20, 2024)
+
+<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
+
  BBQ (Nov. 1, 2023)
 
 <img src="../images/team_picture/2023_11.jpg" width="400"  align=center/> 
@@ -91,7 +96,3 @@ Vacation at a Garden Villa (Jun. 21, 2023)
 Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 
 <img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/> 
-
-UQ Team building (May. 20, 2024)
-
-<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
