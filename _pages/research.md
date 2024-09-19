@@ -17,7 +17,7 @@ author_profile: true
 -->
 
 # Publications
-## Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
+Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
 
 - Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
 
@@ -37,7 +37,7 @@ author_profile: true
 
 - Zhou, Y., Zhou, Q., & Wang, H. (2022). Inferring the unknown parameters in differential equation by Gaussian process regression with constraint. Computational and Applied Mathematics, 41(6), 280. [INV]
 
-Wang, H., Ao, Z., Yu, T., & Li, J. (2021). Inverse Gaussian Process regression for likelihood-free inference. arXiv preprint arXiv:2102.10583. [SC, INV]
+- Wang, H., Ao, Z., Yu, T., & Li, J. (2021). Inverse Gaussian Process regression for likelihood-free inference. arXiv preprint arXiv:2102.10583. [SC, INV]
 
 - Yu, T., Wang, H., & Li, J. (2021). Maximum conditional entropy hamiltonian monte carlo sampler. SIAM Journal on Scientific Computing, 43(5), A3607-A3626. [SC]
 
