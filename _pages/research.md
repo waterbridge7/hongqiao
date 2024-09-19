@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Talks
+- 2024.07.17 Singapore, SciCADE 2024
 - 2023.10.13 Kunming, CSIAM 2023
 - 2023.08.19 Tokyo, ICIAM2023 Tokyo
 - 2023.05.29 Shenzhen, The 12th National Conference on Inverse Problems, Imaging and Applications
