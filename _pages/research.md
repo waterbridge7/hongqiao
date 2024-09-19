@@ -17,38 +17,32 @@ author_profile: true
 -->
 
 # Publications
-## Statistical computation
+## Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
 
-- **Wang Hongqiao**, Ao Ziqiao, Yu Tengchao and Li Jinglai*. Inverse Gaussian Process regression for likelihood-free inference, arXiv preprint.
+- Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
 
-- **Wang Hongqiao** and Li Jinglai*. Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions[J]. Neural Computation, 2018, 30(11): 3072-3094.
+- Ying, J., Xie, Y., Li, J., & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. arXiv preprint arXiv:2404.18838. [SC]
 
-- Yu Tengchao, **Wang Hongqiao** and Li Jinglai*. Maximum conditional entropy Hamiltonian Monte Carlo sampler[J]. SIAM Journal on Scientific Computing, 2021, 43(5): A3607-A3626.
+- Hu, Z., Wang, H., & Zhou, Q. (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
 
-- Cai Xin, Xiong Junda, **Wang Hongqiao*** and Li Jinglai. Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantificationr[J]. International Journal for Uncertainty Quantification, 2022, 12(4).
+- Guo, T., Wang, H., Li, J., & Wang, H. (2024). Sampling-based adaptive design strategy for failure probability estimation. Reliability Engineering & System Safety, 241, 109664. [FP]
 
-- Ying Jingyong, Xie Yaqi, Li Jiao, **Wang Hongqiao***. Accurate adaptive deep learning method for solving elliptic problems. arXiv:2404.18838.
+- Zhou, Q., Xu, G., Wen, Z., & Wang, H. (2023). Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arXiv preprint arXiv:2312.12693. [INV]
 
-## Parameter inference and inverse problem
+- Cai, X., Yang, J., Li, Z., & Wang, H. (2023). Simulation-based transition density approximation for the inference of SDE models. arXiv preprint arXiv:2401.02529. [SC, INV]
 
-- Zhou Ying, Li Jinglai, Zhou Xiang and **Wang Hongqiao**. Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.
+- Gu, S., Wang, H., & Zhou, X. (2022). Active Learning for Saddle Point Calculation. Journal of Scientific Computing, 93(3), 78. [TS]
 
-- Cai Xin, Yang Jingyu, Li Zhibao and **Wang Hongqiao***. Simulation-based transition density approximation for the inference of SDE models, arxiv.
+- Cai, X., Xiong, J., Wang, H., & Li, J. (2022). Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantification, 12(4). [SC]
 
-- Zhou Qingping, Xu Guixian, Wen Zhexin and **Wang Hongqiao***. Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arxiv.
+- Zhou, Y., Zhou, Q., & Wang, H. (2022). Inferring the unknown parameters in differential equation by Gaussian process regression with constraint. Computational and Applied Mathematics, 41(6), 280. [INV]
 
-- Hu Zheng, **Wang Hongqiao*** and Zhou Qingping. A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. accepted for publication in Journal of Computational Physics.
+Wang, H., Ao, Z., Yu, T., & Li, J. (2021). Inverse Gaussian Process regression for likelihood-free inference. arXiv preprint arXiv:2102.10583. [SC, INV]
 
-- **Wang Hongqiao*** and Zhou Xiang. Explicit estimation of derivatives from data and differential equations by gaussian process regression[J]. International Journal for Uncertainty Quantification, 2021, 11(4).
+- Yu, T., Wang, H., & Li, J. (2021). Maximum conditional entropy hamiltonian monte carlo sampler. SIAM Journal on Scientific Computing, 43(5), A3607-A3626. [SC]
 
-- Zhou Ying, Zhou Qingping. and **Wang Hongqiao***. Inferring the unknown parameters in differential equation by Gaussian process regression with constraint. Comp. Appl. Math. 41, 280 (2022).
+- Wang, H., & Zhou, X. (2021). Explicit estimation of derivatives from data and differential equations by Gaussian process regression. International Journal for Uncertainty Quantification, 11(4). [SC]
 
+- Wang, H., & Li, J. (2018). Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions. Neural computation, 30(11), 3072-3094. [SC, INV]
 
-## Failure probability estimation
-- **Wang Hongqiao**, Lin Guang and Li Jinglai*. Gaussian process surrogates for failure detection: A Bayesian experimental design approach[J]. Journal of Computational Physics, 2016, 313: 247-259.
-
-- Guo Tiexin, Wang Hongji, Li Jinglai and **Wang Hongqiao***. Sampling-based adaptive design strategy for failure probability estimation[J]. Reliability Engineering & System Safety, 2024, 241: 109664.
-
-## Tansition state and minimum energy path calcualtion
-
-- Gu Shuting, **Wang Hongqiao*** and Zhou Xiang. Active Learning for Saddle Point Calculation[J]. Journal of Scientific Computing, 2022, 93(3): 1-24.
+- Wang, H., Lin, G., & Li, J. (2016). Gaussian process surrogates for failure detection: A Bayesian experimental design approach. Journal of Computational Physics, 313, 247-259. [FP]
