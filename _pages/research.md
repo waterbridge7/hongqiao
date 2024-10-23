@@ -22,7 +22,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
 
-- Ying, J., Xie, Y., Li, J., & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. arXiv preprint arXiv:2404.18838. [SC]
+- Ying, J., Xie, Y., Li, J., & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. accepted by Communications in Computational Physics. [SC]
 
 - Hu, Z., Wang, H., & Zhou, Q. (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
 
