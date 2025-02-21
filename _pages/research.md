@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Talks
+- 2024.10.27 Nanjing, CSIAM 2024
 - 2024.07.17 Singapore, SciCADE 2024
 - 2023.10.13 Kunming, CSIAM 2023
 - 2023.08.19 Tokyo, ICIAM2023 Tokyo
@@ -19,6 +20,8 @@ author_profile: true
 
 # Publications
 Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
+
+- Li J., Wang H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
 
 - Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
 

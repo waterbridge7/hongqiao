@@ -81,6 +81,10 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 
 ### Team building
 
+Hiking at Taohualing Park (Jan. 12, 2025)
+
+<img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/> 
+
 UQ Team building (May. 20, 2024)
 
 <img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
