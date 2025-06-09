@@ -33,9 +33,6 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
 - <img src="../images/students/Shiyang_Bian.png" width="100"  align=center/> Shiyang Bian (2024-present)
 - <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
-- <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present)
-- <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> Mengyao Liu (joint with Prof. Yong Jiao, 2022-present)
-- <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> Pucheng Tang (joint with Prof. Yong Jiao, 2022-present)
 - <img src="../images/students/xujiale.jpg" width="100"  align=center/> Jiale Xu (2023-present)
 - <img src="../images/students/chenbeibei.jpg" width="100"  align=center/> Beibei Chen (2023-present)
 - <img src="../images/students/xiaozhiwen.jpg" width="100"  align=center/> Zhiwen Xiao (2023-present)
@@ -57,6 +54,12 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-2024)
 <!-- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> -->
 - Run Zhang (joint with Prof. Junping Li, 2022-2024)
+<!-- > <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> -->
+<!-- Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present) -->
+<!-- - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> -->
+- Mengyao Liu (joint with Prof. Yong Jiao, 2022-2025)
+<!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
+- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025)
   
 ### Former undergraduate students
 
@@ -78,6 +81,12 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - Shanmei Zhong (2024, M.S., Peking University)
 - Wei Zhou (2024, M.S., Zhejiang University)
 - Yinzhi Wang (2024, M.S., Shanghai University of Finance and Economics)
+- Yifei Liu (2025, M.S., Central South University)
+- Rongyu Gao (2025, M.S., Nankai University)
+- Keke Miu (2025, M.S., National University of Singapore)
+- Tianyi Zhu (2025, M.S., Hong Kong University of Science and Technology)
+- Xu Yang (2025, M.S., Nanyang Technological University)
+- Pinzhi Shen (2025, M.S., Renmin University of China)
 
 ### Team building
 
