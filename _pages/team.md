@@ -61,6 +61,29 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 <!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
 - Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025)
   
+### Team building
+
+Hiking at Taohualing Park (Jan. 12, 2025)
+
+<img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/> 
+
+UQ Team building (May. 20, 2024)
+
+<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
+
+ BBQ (Nov. 1, 2023)
+
+<img src="../images/team_picture/2023_11.jpg" width="400"  align=center/> 
+
+Vacation at a Garden Villa (Jun. 21, 2023)
+
+<img src="../images/team_picture/2023_6.jpg" width="400"  align=center/> 
+ 
+Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
+
+<img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/> 
+
+
 ### Former undergraduate students
 
 - Qibiao Zhang (2020, M.S., Renmin University of China)
@@ -88,24 +111,3 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - Xu Yang (2025, M.S., Nanyang Technological University)
 - Pinzhi Shen (2025, M.S., Renmin University of China)
 
-### Team building
-
-Hiking at Taohualing Park (Jan. 12, 2025)
-
-<img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/> 
-
-UQ Team building (May. 20, 2024)
-
-<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
-
- BBQ (Nov. 1, 2023)
-
-<img src="../images/team_picture/2023_11.jpg" width="400"  align=center/> 
-
-Vacation at a Garden Villa (Jun. 21, 2023)
-
-<img src="../images/team_picture/2023_6.jpg" width="400"  align=center/> 
- 
-Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
-
-<img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/> 
