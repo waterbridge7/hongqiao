@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 # Talks
+- 2025.07.04 Hong Kong, HKSIAM 2025
+- 2025.06.30 Manila, EASIAM 2025
 - 2024.10.27 Nanjing, CSIAM 2024
 - 2024.07.17 Singapore, SciCADE 2024
 - 2023.10.13 Kunming, CSIAM 2023

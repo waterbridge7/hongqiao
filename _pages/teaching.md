@@ -18,3 +18,5 @@ author_profile: true
 - **Modern statistical learning theory**, graduate course, Spring semester, 2024, School of Mathmatics and Statistics, CSU
 
 - **Statistical inversion**, graduate course, Fall semester, 2023-now, School of Mathmatics and Statistics, CSU
+
+- **probability and statistics**，undergraduate course, Fall semester, 2025, CSU
