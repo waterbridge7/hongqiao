@@ -12,7 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
-- Jul. 21, 2025, Congratulations to Pucheng Tang, and Mengyao Liu on their graduation.
+- Jul. 21, 2025, Congratulations to Pucheng Tang and Mengyao Liu on their graduation.
 - Sep. 15, 2024,  Weclome Shiyang Bian, Ziyan Huang and Yufan Zhang to join the UQ&ML Team! 
 - Jul. 1, 2024, Contratulations to Kunyu Wu for being admitted to School of Mathematics and Statistics, CSU for his Ph.D!
 - Jul. 1, 2024, Congratulations to Jingyu Yang, Run Zhang, Juan Cheng and Kunyu Wu on their graduation.
