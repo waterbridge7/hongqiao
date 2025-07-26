@@ -23,6 +23,10 @@ author_profile: true
 # Publications
 Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
 
+- Huang M., Wang H. and Wu K. (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
+
+- Wang H., Wang H. Ying J. and Zhou Q. (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
+
 - Li J., Wang H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
 
 - Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
