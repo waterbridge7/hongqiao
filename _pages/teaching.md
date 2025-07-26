@@ -19,4 +19,4 @@ author_profile: true
 
 - **Statistical inversion**, graduate course, Fall semester, 2023-now, School of Mathmatics and Statistics, CSU
 
-- **probability and statistics**，undergraduate course, Fall semester, 2025, CSU
+- **Probability and statistics**，undergraduate course, Fall semester, 2025, CSU
