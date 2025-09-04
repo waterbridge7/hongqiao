@@ -60,7 +60,7 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 <!-- - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> -->
 - Mengyao Liu (joint with Prof. Yong Jiao, 2022-2025)
 <!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
-- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025)
+- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025. Future carrer: Ph.D, Wuhan University)
   
 ### Team building
 
