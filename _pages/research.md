@@ -23,6 +23,8 @@ author_profile: true
 # Publications
 Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
 
+- Tang P., Wang H., Lin W, Chen Q., Yong H. (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
+
 - Huang M., Wang H. and Wu K. (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
 
 - Wang H., Wang H. Ying J. and Zhou Q. (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
@@ -31,7 +33,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Li J., Wang H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
 
-- Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC, INV] 
+- Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
 
 - Ying, J., Xie, Y., Li, J., & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. accepted by Communications in Computational Physics. [SC]
 
@@ -41,7 +43,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Zhou, Q., Xu, G., Wen, Z., & Wang, H. (2023). Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arXiv preprint arXiv:2312.12693. [INV]
 
-- Cai, X., Yang, J., Li, Z., & Wang, H. (2023). Simulation-based transition density approximation for the inference of SDE models. arXiv preprint arXiv:2401.02529. [SC, INV]
+- Cai, X., Yang, J., Li, Z., & Wang, H. (2023). Simulation-based transition density approximation for the inference of SDE models. arXiv preprint arXiv:2401.02529. [SC,INV]
 
 - Gu, S., Wang, H., & Zhou, X. (2022). Active Learning for Saddle Point Calculation. Journal of Scientific Computing, 93(3), 78. [TS]
 
@@ -55,6 +57,6 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Wang, H., & Zhou, X. (2021). Explicit estimation of derivatives from data and differential equations by Gaussian process regression. International Journal for Uncertainty Quantification, 11(4). [SC]
 
-- Wang, H., & Li, J. (2018). Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions. Neural computation, 30(11), 3072-3094. [SC, INV]
+- Wang, H., & Li, J. (2018). Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions. Neural computation, 30(11), 3072-3094. [SC,INV]
 
 - Wang, H., Lin, G., & Li, J. (2016). Gaussian process surrogates for failure detection: A Bayesian experimental design approach. Journal of Computational Physics, 313, 247-259. [FP]
