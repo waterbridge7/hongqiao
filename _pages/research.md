@@ -29,7 +29,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Wang, H., Wang, H. Ying, J. & Zhou, Q. (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
 
-- Zheng, H., Wang, H., Yin, P., Li, L. & Guan, X. (2025). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493..[FP]
+- Zheng, H., Wang, H., Yin, P., Li, L. & Guan, X. (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]
 
 - Li, J. & Wang, H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
 
