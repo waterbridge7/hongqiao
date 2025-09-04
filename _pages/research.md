@@ -23,19 +23,19 @@ author_profile: true
 # Publications
 Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS]
 
-- Tang P., Wang H., Lin W, Chen Q., Yong H. (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
+- Tang, P., Wang, H., Lin, W., Chen, Q. & Yong, H. (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
 
-- Huang M., Wang H. and Wu K. (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
+- Huang, M., Wang, H. & Wu, K. (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
 
-- Wang H., Wang H. Ying J. and Zhou Q. (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
+- Wang, H., Wang, H. Ying, J. & Zhou, Q. (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
 
-- Zheng H., Wang H., Yin P., Li L. and Guan X. (2025). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, accepted by Reliability Engineering & System Safety.[FP]
+- Zheng, H., Wang, H., Yin, P., Li, L. & Guan, X. (2025). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, accepted by Reliability Engineering & System Safety.[FP]
 
-- Li J., Wang H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
+- Li, J. & Wang, H. (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
 
-- Zhou Y., Li J., Zhou X. and Wang H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
+- Zhou, Y., Li, J., Zhou, X. & Wang, H. (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
 
-- Ying, J., Xie, Y., Li, J., & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. accepted by Communications in Computational Physics. [SC]
+- Ying, J., Xie, Y., Li, J. & Wang, H. (2024). Accurate adaptive deep learning method for solving elliptic problems. accepted by Communications in Computational Physics. [SC]
 
 - Hu, Z., Wang, H., & Zhou, Q. (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
 
