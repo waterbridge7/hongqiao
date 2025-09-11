@@ -25,6 +25,7 @@ Work experiences
 
 Awards
 ======
+- 2026  - 2029 General Program, NSFC
 - 2022  - 2024 Youth Science Fund Project, NSF of Hunan Province
 - 2022  - 2024 Youth Science Fund Project, NSFC
 
