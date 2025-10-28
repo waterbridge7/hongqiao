@@ -7,16 +7,12 @@ author_profile: true
 # Talks
 - 2025.07.04 Hong Kong, HKSIAM 2025
 - 2025.06.30 Manila, EASIAM 2025
-- 2024.10.27 Nanjing, CSIAM 2024
 - 2024.07.17 Singapore, SciCADE 2024
-- 2023.10.13 Kunming, CSIAM 2023
 - 2023.08.19 Tokyo, ICIAM2023 Tokyo
 - 2023.05.29 Shenzhen, The 12th National Conference on Inverse Problems, Imaging and Applications
-- 2021.10.07 Hefei, CSIAM 2021
 - 2021.04.07 Changsha, CSUST, Computational inverse problem and its application workshop
-- 2020.10.31 Changsha, CSIAM 2020
 - 2019.10.11 Guilin, National Symposium on Experimental Design and Statistical Science
-- 2019.09.19 Foshan, CSIAM 2019
+- CSIAM 2019, 2020, 2021, 2023, 2024, 2025
 <!-- - 2021.10.29 Shenzhen, Inverse problem 2021
 -->
 
