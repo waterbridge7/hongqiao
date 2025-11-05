@@ -31,6 +31,14 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 
 ###  M.S. students
 
+- <img src="../images/students/Wenqi_Chen.jpg" width="100"  align=center/> Wenqi Chen (2026-)
+- <img src="../images/students/Kuiyuan_Zheng.jpg" width="100"  align=center/> Kuiyuan Zheng (2026-)
+- <img src="../images/students/Yusen_Zhang.jpg" width="100"  align=center/> Yusen Zhang (2026-)
+- <img src="../images/students/Jiasi_Xing.jpg" width="100"  align=center/> Jiasi Xing (2026-)
+- <img src="../images/students/Chuandi_Zhou.jpg" width="100"  align=center/> Chuandi Zhou 2025-)
+- <img src="../images/students/Hao_Wang.jpg" width="100"  align=center/> Hao Wanng (2025-)
+- <img src="../images/students/Zhifeng_Qin.jpg" width="100"  align=center/> Zhifeng Qin (2025-)
+- <img src="../images/students/Yifei_Liu.jpg" width="100"  align=center/> Yifei Liu (2025-)
 - <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
 - <img src="../images/students/Shiyang_Bian.png" width="100"  align=center/> Shiyang Bian (2024-present)
 - <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
