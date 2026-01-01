@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Now I'm an associate professor in School of Mathematics and Statistics at Central South University. My research interests include machine learning, uncertainty quantification, Bayesian inference and optimal experimental design.
+Now I'm an associate professor in School of Mathematics and Statistics at Central South University. My research interests include machine learning, uncertainty quantification, Bayesian inference, optimal experimental design and computational diffraction imaging.
 
 News
 ------
-- Nov. 5, 2025,  Weclome Yusen Zhang,  to join the UQ&ML Team! 
+- Nov. 5, 2025,  Weclome Yusen Zhang, Wenqi Chen, Kuiyuan Zheng and Jiasi Xinng to join the UQ&ML Team! 
 - Nov. 5, 2025,  Weclome Yifei Liu, Hao Wang, Zhifeng Qin and Chuandi Zhou to join the UQ&ML Team! 
 - Jul. 21, 2025, Congratulations to Pucheng Tang and Mengyao Liu on their graduation.
 - Sep. 15, 2024,  Weclome Shiyang Bian, Ziyan Huang and Yufan Zhang to join the UQ&ML Team! 

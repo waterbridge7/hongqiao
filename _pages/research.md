@@ -19,7 +19,7 @@ author_profile: true
 # Publications
 Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS] - Optical Engineering [OE] - Computational diffraction imaging [CDI]
 
-- 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. in press.
+- 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. in press. [CDI]
 
 - Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, in press. [SC]
 
