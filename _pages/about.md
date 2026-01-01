@@ -12,7 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
-- Nov. 5, 2025,  Weclome Yusen Zhang, Wenqi Chen, Kuiyuan Zheng and Jiasi Xinng to join the UQ&ML Team! 
+- Nov. 5, 2025,  Weclome Yusen Zhang, Wenqi Chen, Kuiyuan Zheng and Jiasi Xing to join the UQ&ML Team! 
 - Nov. 5, 2025,  Weclome Yifei Liu, Hao Wang, Zhifeng Qin and Chuandi Zhou to join the UQ&ML Team! 
 - Jul. 21, 2025, Congratulations to Pucheng Tang and Mengyao Liu on their graduation.
 - Sep. 15, 2024,  Weclome Shiyang Bian, Ziyan Huang and Yufan Zhang to join the UQ&ML Team! 

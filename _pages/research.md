@@ -61,7 +61,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Hongqiao Wang, Guang Lin, Jinglai Li (2016). Gaussian process surrogates for failure detection: A Bayesian experimental design approach. Journal of Computational Physics, 313, 247-259. [FP]
 
-- Hongqiao Wang, Bin Fan, Yong-qian Wu, Haitao Liu, Rong Liu (2014). The thin mirror deformation and stress distribution analysis based on different influence functions. SPIE. [OE]
+- Hongqiao Wang, Bin Fan, Yongqian Wu, Haitao Liu, Rong Liu (2014). The thin mirror deformation and stress distribution analysis based on different influence functions. SPIE. [OE]
 
 - 王洪桥, 范 斌, 吴永前, 刘海涛, 刘 容 (2014). $\Phi$1.2 m 主镜光学加工中轴向支撑系统的补偿力分析计算. 红外与激光工程, 第 43 卷第 6 期. [OE]
 
