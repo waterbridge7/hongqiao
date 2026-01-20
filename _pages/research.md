@@ -21,7 +21,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. 52(12): 250294. [CDI]
 
-- Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, Applied Mathematical Modelling, 116716. [SC]
+- Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, 116716. [SC]
 
 - Pucheng Tang, Hongqiao Wang, Qian Chen, Wenzhou Lin, Heng Yong (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
 
@@ -35,7 +35,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Ying Zhou, Jinglai Li, Xiang Zhou, Hongqiao Wang (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
 
-- Jinyong Ying, Yaqi Xie, Jiao Li, Hongqiao Wang (2024). Accurate adaptive deep learning method for solving elliptic problems. accepted by Communications in Computational Physics. [SC]
+- Jinyong Ying, Yaqi Xie, Jiao Li, Hongqiao Wang (2024). Accurate adaptive deep learning method for solving elliptic problems. Communications in Computational Physics, 37(3), 849-876. [SC]
 
 - Zheng Hu, Hongqiao Wang, Qingping Zhou (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
 
