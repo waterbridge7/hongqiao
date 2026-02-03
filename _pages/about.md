@@ -12,6 +12,8 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
+- Jan. 31, 2025, Congratulations to Hongji Wang! His paper "Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows" was accepted for publication in Journal of Computational Physics.
+- Jan. 30, 2025, 祝贺刘艺菲和黄子言在光电工程杂志发表综述论文《衍射成像中的点扩散函数修正技术综述》.
 - Nov. 5, 2025,  Weclome Yusen Zhang, Wenqi Chen, Kuiyuan Zheng and Jiasi Xing to join the UQ&ML Team! 
 - Nov. 5, 2025,  Weclome Longying He, Yifei Liu, Hao Wang, Zhifeng Qin and Chuandi Zhou to join the UQ&ML Team! 
 - Jul. 21, 2025, Congratulations to Pucheng Tang and Mengyao Liu on their graduation.

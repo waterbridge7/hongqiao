@@ -27,7 +27,7 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Miao Huang, Hongqiao Wang, Kunyu Wu (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
 
-- Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, https://arxiv.org/pdf/2507.17713. [INV]
+- Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, accepted by Journal of Computational Physics. [INV]
 
 - Hongdan Zheng, Hongqiao Wang, Pei Yin, Lina Li, Xiaofei Guan (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]
 
