@@ -17,23 +17,62 @@ author_profile: true
 -->
 
 # Publications
-Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS] - Optical Engineering [OE] - Computational diffraction imaging [CDI]
+<small> Statistical computation [SC] - Parameter inference and inversion [INV] - Failure probability estimation [FP] - Tansition state and minimum energy path calcualtion [TS] - Optical Engineering [OE] - Computational diffraction imaging [CDI] <small>
+
+## Representative Publications
+
+- Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, 116716. [SC]
+
+- Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2026). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows,  Journal of Computational Physics,  553, 114723. [INV]
+
+- Hongdan Zheng, Hongqiao Wang, Pei Yin, Lina Li, Xiaofei Guan (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]
+
+- Zheng Hu, Hongqiao Wang, Qingping Zhou (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
+
+- Tiexin Guo,Hongji Wang, Jinglai Li, Hongqiao Wang (2024). Sampling-based adaptive design strategy for failure probability estimation. Reliability Engineering & System Safety, 241, 109664. [FP]
+
+- Shuting Gu, Hongqiao Wang, Xiang Zhou (2022). Active Learning for Saddle Point Calculation. Journal of Scientific Computing, 93(3), 78. [TS]
+
+- Tengchao Yu, Hongqiao Wang, Jinglai Li (2021). Maximum conditional entropy hamiltonian monte carlo sampler. SIAM Journal on Scientific Computing, 43(5), A3607-A3626. [SC]
+
+- Hongqiao Wang, Jinglai Li (2018). Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions. Neural computation, 30(11), 3072-3094. [SC,INV]
+
+- Hongqiao Wang, Guang Lin, Jinglai Li (2016). Gaussian process surrogates for failure detection: A Bayesian experimental design approach. Journal of Computational Physics, 313, 247-259. [FP]
+
+## Currently unpublished
+
+- Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, Xiaofei Guan (2026). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes, accepted by Reliability Engineering & System Safety. [FP]
+
+- Ziyan Huang, Liang Wu, Yifei Liu, Dongliang Tang, Hongqiao Wang. Physen-Noise2Noise: Physics-Guided Self-Supervised Defocus Deblurring with Bias Correction under Low-Light Conditions, under review. [CDI]
+
+- Shiyang Bian, Yukun Luo, Hongqiao Wang, Xiaoqing Guan. Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction, under review.
+
+- Chengze Du, Hongqiao Wang, Liang Yan, Yufan Zhang. Surrogate assisted multi-level importance sampling method for failure probability estimation with fidelity-aware strategies, under review. [FP]
+
+- Pucheng Tang, Hongqiao Wang, Qian Chen, Wenzhou Lin, Heng Yong (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
+
+- Kunyu wu, Hongqiao Wang, Liang Yan, Miao Huang (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
+
+- Jinglai Li, Hongqiao Wang (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
+
+- Ying Zhou, Jinglai Li, Xiang Zhou, Hongqiao Wang (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
+
+- Qingping Zhou, Guixian Xu, Zhexin Wen, Hongqiao Wang (2023). Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arXiv preprint arXiv:2312.12693. [INV]
+
+- Xin Cai, Jingyu Yang, Zhibao Li, Hongqiao Wang, Miao Huang (2023). Simulation-based transition density approximation for the inference of SDE models. arXiv preprint arXiv:2401.02529. [SC,INV]
+
+- Hongqiao Wang, Ziqiao Ao, Tengchao Yu, Jinglai Li (2021). Inverse Gaussian Process regression for likelihood-free inference. arXiv preprint arXiv:2102.10583. [SC, INV]
+
+## All Publications
+
 
 - 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. 52(12): 250294. [CDI]
 
 - Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, 116716. [SC]
 
-- Pucheng Tang, Hongqiao Wang, Qian Chen, Wenzhou Lin, Heng Yong (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
+- Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2026). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, Journal of Computational Physics,  553, 114723. [INV]
 
-- Miao Huang, Hongqiao Wang, Kunyu Wu (2025). Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data, https://arxiv.org/pdf/2507.15235. [SC]
-
-- Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2025). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows, accepted by Journal of Computational Physics. [INV]
-
-- Hongdan Zheng, Hongqiao Wang, Pei Yin, Lina Li, Xiaofei Guan (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]
-
-- Jinglai Li, Hongqiao Wang (2025). Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial, arXiv:2502.03090.[SC]
-
-- Ying Zhou, Jinglai Li, Xiang Zhou, Hongqiao Wang (2024). Model-Embedded Gaussian Process Regression for Parameter Estimation in Dynamical System, arxiv.[SC,INV] 
+- Hongdan Zheng, Hongqiao Wang, Pei Yin, Lina Li, Xiaofei Guan (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]s
 
 - Jinyong Ying, Yaqi Xie, Jiao Li, Hongqiao Wang (2024). Accurate adaptive deep learning method for solving elliptic problems. Communications in Computational Physics, 37(3), 849-876. [SC]
 
@@ -41,17 +80,11 @@ Statistical computation [SC] - Parameter inference and inversion [INV] - Failure
 
 - Tiexin Guo,Hongji Wang, Jinglai Li, Hongqiao Wang (2024). Sampling-based adaptive design strategy for failure probability estimation. Reliability Engineering & System Safety, 241, 109664. [FP]
 
-- Qingping Zhou, Guixian Xu, Zhexin Wen, Hongqiao Wang (2023). Anderson Accelerated Gauss-Newton-guided deep learning for nonlinear inverse problems with Application to Electrical Impedance Tomography. arXiv preprint arXiv:2312.12693. [INV]
-
-- Xin Cai, Jingyu Yang, Zhibao Li, Hongqiao Wang, Miao Huang (2023). Simulation-based transition density approximation for the inference of SDE models. arXiv preprint arXiv:2401.02529. [SC,INV]
-
 - Shuting Gu, Hongqiao Wang, Xiang Zhou (2022). Active Learning for Saddle Point Calculation. Journal of Scientific Computing, 93(3), 78. [TS]
 
 - Xin Cai, Junda Xiong,Hongqiao Wang, Jinglai Li (2022). Control variates with a dimension reduced Bayesian Monte Carlo sampler. International Journal for Uncertainty Quantification, 12(4). [SC]
 
 - Ying Zhou, Qingping Zhou, Hongqiao Wang (2022). Inferring the unknown parameters in differential equation by Gaussian process regression with constraint. Computational and Applied Mathematics, 41(6), 280. [INV]
-
-- Hongqiao Wang, Ziqiao Ao, Tengchao Yu, Jinglai Li (2021). Inverse Gaussian Process regression for likelihood-free inference. arXiv preprint arXiv:2102.10583. [SC, INV]
 
 - Tengchao Yu, Hongqiao Wang, Jinglai Li (2021). Maximum conditional entropy hamiltonian monte carlo sampler. SIAM Journal on Scientific Computing, 43(5), A3607-A3626. [SC]
 
