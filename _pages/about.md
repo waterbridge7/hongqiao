@@ -12,7 +12,7 @@ Now I'm an associate professor in School of Mathematics and Statistics at Centra
 
 News
 ------
-- Jun. 19, 2026, Congratulations to Jinfu Ye, Zhiwen Xiao and Jinfu Yes on their graduation.
+- Jun. 19, 2026, Congratulations to Jinfu Ye, Zhiwen Xiao and Beibei Chen on their graduation.
 - Jan. 31, 2026, Congratulations to Hongji Wang! His paper "Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows" was accepted for publication in Journal of Computational Physics.
 - Jan. 30, 2025, 祝贺刘艺菲和黄子言在光电工程杂志发表综述论文《衍射成像中的点扩散函数修正技术综述》.
 - Nov. 5, 2025,  Weclome Yusen Zhang, Wenqi Chen, Kuiyuan Zheng and Jiasi Xing to join the UQ&ML Team! 
