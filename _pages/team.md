@@ -43,10 +43,6 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
 - <img src="../images/students/Shiyang_Bian.png" width="100"  align=center/> Shiyang Bian (2024-present)
 - <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
-- <img src="../images/students/xujiale.jpg" width="100"  align=center/> Jiale Xu (2023-present)
-- <img src="../images/students/chenbeibei.jpg" width="100"  align=center/> Beibei Chen (2023-present)
-- <img src="../images/students/xiaozhiwen.jpg" width="100"  align=center/> Zhiwen Xiao (2023-present)
-- <img src="../images/students/yejinfu.jpg" width="100"  align=center/> Jinfu Ye (2023-present)
 
 ### Former M.S. students
 
@@ -70,6 +66,14 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 - Mengyao Liu (joint with Prof. Yong Jiao, 2022-2025)
 <!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
 - Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025. Future career: Ph.D, Wuhan University)
+<!-- - <img src="../images/students/xujiale.jpg" width="100"  align=center/>  -->
+- Jiale Xu (joint with Prof. Qingping Zhou and Prof. Cunqiang Miao, 2023-2026. Future career: Huawei)
+<!-- - <img src="../images/students/chenbeibei.jpg" width="100"  align=center/>  -->
+- Beibei Chen (2023-2026. Future career: Ph.D, Xi'an Jiaotong Univerity)
+<!--- <img src="../images/students/xiaozhiwen.jpg" width="100"  align=center/>  -->
+- Zhiwen Xiao (2023-2026. Future career: Government staff)
+<!--- <img src="../images/students/yejinfu.jpg" width="100"  align=center/>  -->
+- Jinfu Ye (2023-2026. Future career: Huawei)
 
 ### Team building
 
