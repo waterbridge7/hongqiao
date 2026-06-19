@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-UQ&ML team will focus on the research about machine learning (ML), uncertainty quantification (UQ) and AI for Science.
+The UQ&ML team focuses on research in machine learning (ML), uncertainty quantification (UQ), and AI for Science.
 
 ## Uncertainty quantification (UQ)
 
@@ -24,19 +24,19 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 
 ## People
 
-###  Ph.D. students
+### Ph.D. students
 
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
 - <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/>  Kunyu Wu (joint with Prof. Yong Jiao, 2024-present)
 
-###  M.S. students
+### M.S. students
 
 - <img src="../images/students/Wenqi_Chen.jpg" width="100"  align=center/> Wenqi Chen (2026-)
 - <img src="../images/students/Kuiyuan_Zheng.jpg" width="100"  align=center/> Kuiyuan Zheng (2026-)
 - <img src="../images/students/Yusen_Zhang.jpg" width="100"  align=center/> Yusen Zhang (2026-)
 - <img src="../images/students/Jiasi_Xing.jpg" width="100"  align=center/> Jiasi Xing (2026-)
-- <img src="../images/students/Longying_He.jpg" width="100"  align=center/> Longying He 2025-)
-- <img src="../images/students/Chuandi_Zhou.jpg" width="100"  align=center/> Chuandi Zhou 2025-)
+- <img src="../images/students/Longying_He.jpg" width="100"  align=center/> Longying He (2025-)
+- <img src="../images/students/Chuandi_Zhou.jpg" width="100"  align=center/> Chuandi Zhou (2025-)
 - <img src="../images/students/Hao_Wang.jpg" width="100"  align=center/> Hao Wang (2025-)
 - <img src="../images/students/Zhifeng_Qin.jpg" width="100"  align=center/> Zhifeng Qin (2025-)
 - <img src="../images/students/Yifei_Liu.jpg" width="100"  align=center/> Yifei Liu (2025-)
@@ -51,15 +51,15 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 ### Former M.S. students
 
 <!-- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> -->
-- Ying Zhou (joint with Prof. Lian Wu, 2020-2022. Future carrer: Ph.D, Central South University)
+- Ying Zhou (joint with Prof. Lian Wu, 2020-2022. Future career: Ph.D, Central South University)
 <!-- - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> -->
-- Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future carrer: Ph.D, Central South University)
+- Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future career: Ph.D, Central South University)
 <!-- - <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> -->
-- Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023.  Future carrer: government staff)
+- Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023. Future career: government staff)
 <!-- <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> -->
-- Jingyu Yang (joint with Prof. Hebai Chen, 2021-2024.  Future carrer: ioe)
+- Jingyu Yang (joint with Prof. Hebai Chen, 2021-2024. Future career: IOE)
 <!--  <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> -->
-- Kunyu Wu (joint with Prof. Yong Jiao, 2021-2024. Future carrer: Ph.D, Central South University)
+- Kunyu Wu (joint with Prof. Yong Jiao, 2021-2024. Future career: Ph.D, Central South University)
 <!-- <img src="../images/students/Juan_Cheng.jpg" width="100"  align=center/> -->
 - Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-2024)
 <!-- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> -->
@@ -69,29 +69,29 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 <!-- - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> -->
 - Mengyao Liu (joint with Prof. Yong Jiao, 2022-2025)
 <!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
-- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025. Future carrer: Ph.D, Wuhan University)
-  
+- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025. Future career: Ph.D, Wuhan University)
+
 ### Team building
 
 Hiking at Taohualing Park (Jan. 12, 2025)
 
-<img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/> 
+<img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/>
 
 UQ Team building (May. 20, 2024)
 
-<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/> 
+<img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/>
 
- BBQ (Nov. 1, 2023)
+BBQ (Nov. 1, 2023)
 
-<img src="../images/team_picture/2023_11.jpg" width="400"  align=center/> 
+<img src="../images/team_picture/2023_11.jpg" width="400"  align=center/>
 
 Vacation at a Garden Villa (Jun. 21, 2023)
 
-<img src="../images/team_picture/2023_6.jpg" width="400"  align=center/> 
- 
+<img src="../images/team_picture/2023_6.jpg" width="400"  align=center/>
+
 Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 
-<img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/> 
+<img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/>
 
 
 ### Former undergraduate students
@@ -101,8 +101,8 @@ Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 - Chengling Feng (2020, M.S., Shanghai Jiao Tong University)
 - Yuchong Wang (2021, M.S., National University of Singapore)
 - Zirui Li (2022, North China Electric Power University)
-- Xiao Zhang(2022, M.S., Central South University)
-- Dezhao Yang(2022, M.S., The Chinese University of Hong Kong, Shenzhen)
+- Xiao Zhang (2022, M.S., Central South University)
+- Dezhao Yang (2022, M.S., The Chinese University of Hong Kong, Shenzhen)
 - Zhiwen Xiao (2023, M.S., Central South University)
 - Jinfu Ye (2023, M.S., Central South University)
 - Yuanyuan Cao (2023, M.S., Shanghai University of Finance and Economics)
@@ -120,4 +120,3 @@ Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 - Tianyi Zhu (2025, M.S., Hong Kong University of Science and Technology)
 - Xu Yang (2025, M.S., Nanyang Technological University)
 - Pinzhi Shen (2025, M.S., Renmin University of China)
-
