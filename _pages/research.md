@@ -21,23 +21,15 @@ author_profile: true
 
 ## Representative Publications
 
-- Jiao Li, Haocheng Mei, Qinfeng Ou, Hongqiao Wang, Jinyong Ying (2025). Neural networks for solving elliptic problems: analysis and adaptivities, Applied Mathematical Modelling, 116716. [SC]
-
 - Hongji Wang, Hongqiao Wang, Jinyong Ying, Qingping Zhou (2026). Sequential Bayesian Design for Efficient Surrogate Construction in the Inversion of Darcy Flows,  Journal of Computational Physics,  553, 114723. [INV]
-
-- Hongdan Zheng, Hongqiao Wang, Pei Yin, Lina Li, Xiaofei Guan (2026). Adaptive parallel design criterion for failure probability estimation with Student-t likelihood, Reliability Engineering & System Safety, 111493. [FP]
 
 - Zheng Hu, Hongqiao Wang, Qingping Zhou (2024). A MCMC method based on surrogate model and Gaussian process parameterization for infinite Bayesian PDE inversion. Journal of Computational Physics, 507, 112970. [INV]
 
-- Tiexin Guo,Hongji Wang, Jinglai Li, Hongqiao Wang (2024). Sampling-based adaptive design strategy for failure probability estimation. Reliability Engineering & System Safety, 241, 109664. [FP]
+- Tiexin Guo, Hongji Wang, Jinglai Li, Hongqiao Wang (2024). Sampling-based adaptive design strategy for failure probability estimation. Reliability Engineering & System Safety, 241, 109664. [FP]
 
 - Shuting Gu, Hongqiao Wang, Xiang Zhou (2022). Active Learning for Saddle Point Calculation. Journal of Scientific Computing, 93(3), 78. [TS]
 
-- Tengchao Yu, Hongqiao Wang, Jinglai Li (2021). Maximum conditional entropy hamiltonian monte carlo sampler. SIAM Journal on Scientific Computing, 43(5), A3607-A3626. [SC]
-
 - Hongqiao Wang, Jinglai Li (2018). Adaptive Gaussian process approximation for Bayesian inference with expensive likelihood functions. Neural computation, 30(11), 3072-3094. [SC,INV]
-
-- Hongqiao Wang, Guang Lin, Jinglai Li (2016). Gaussian process surrogates for failure detection: A Bayesian experimental design approach. Journal of Computational Physics, 313, 247-259. [FP]
 
 ## Currently unpublished
 
