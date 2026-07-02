@@ -55,6 +55,8 @@ author_profile: true
 
 ## All Publications
 
+- Zhida Chen, Wenqi Huang, Zhibao Li, Hongqiao Wang (2026). On the optimal design of stochasstic resonance system bassed on Bayeian optimization, Chaos, Solitons and Fractals. [SC]
+
 - Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, Xiaofei Guan (2026). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes, accepted by Reliability Engineering & System Safety. [FP]
 
 - 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. 52(12): 250294. [CDI]
