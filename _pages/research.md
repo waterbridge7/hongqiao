@@ -35,8 +35,6 @@ author_profile: true
 
 - Ziyan Huang, Liang Wu, Yifei Liu, Dongliang Tang, Hongqiao Wang. Physen-Noise2Noise: Physics-Guided Self-Supervised Defocus Deblurring with Bias Correction under Low-Light Conditions, under review. [CDI]
 
-- Shiyang Bian, Yukun Luo, Hongqiao Wang, Xiaoqing Guan. Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction, under review.
-
 - Chengze Du, Hongqiao Wang, Liang Yan, Yufan Zhang. Surrogate assisted multi-level importance sampling method for failure probability estimation with fidelity-aware strategies, under review. [FP]
 
 - Pucheng Tang, Hongqiao Wang, Qian Chen, Wenzhou Lin, Heng Yong (2025). Gaussian process surrogate with physical law-corrected prior for multi-coupled PDEs defined on irregular geometry, https://arxiv.org/abs/2509.02617. [SC,INV]
@@ -55,9 +53,11 @@ author_profile: true
 
 ## All Publications
 
+- Shiyang Bian, Yukun Luo, Hongqiao Wang, Xiaoqing Guan. Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction, accepted by Journal of Chemical Information and Modeling.
+
 - Zhida Chen, Wenqi Huang, Zhibao Li, Hongqiao Wang (2026). On the optimal design of stochasstic resonance system bassed on Bayeian optimization, Chaos, Solitons and Fractals. [SC]
 
-- Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, Xiaofei Guan (2026). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes, accepted by Reliability Engineering & System Safety. [FP]
+- Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, Xiaofei Guan (2026). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes, Reliability Engineering & System Safety, 113047. [FP]
 
 - 刘艺菲，黄子言，吴江琦，范斌，王洪桥 (2025). 衍射成像中的点扩散函数修正技术综述. 光电工程. 52(12): 250294. [CDI]
 
