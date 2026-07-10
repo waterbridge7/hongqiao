@@ -55,7 +55,7 @@ author_profile: true
 
 - Shiyang Bian, Yukun Luo, Hongqiao Wang, Xiaoqing Guan. Bayesian Uncertainty-Guided Fidelity Fusion for Bioactivity Prediction, accepted by Journal of Chemical Information and Modeling.
 
-- Zhida Chen, Wenqi Huang, Zhibao Li, Hongqiao Wang (2026). On the optimal design of stochasstic resonance system bassed on Bayeian optimization, Chaos, Solitons and Fractals. [SC]
+- Zhida Chen, Wenqi Huang, Zhibao Li, Hongqiao Wang (2026). On the optimal design of stochasstic resonance system bassed on Bayeian optimization, Chaos, Solitons and Fractals啊, 210: 118727. [SC]
 
 - Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, Xiaofei Guan (2026). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes, Reliability Engineering & System Safety, 113047. [FP]
 
