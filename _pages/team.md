@@ -9,7 +9,7 @@ The UQ&ML team focuses on research in machine learning (ML), uncertainty quantif
 
 ## Uncertainty quantification (UQ)
 
-UQ is the science of quantitative characterization and estimation of uncertainties in both computational and real world applications. It tries to determine how likely certain outcomes are if some aspects of the system are not exactly known. (from Wiki)
+UQ is the science of quantitative characterization and estimation of uncertainties in both computational and real-world applications. It tries to determine how likely certain outcomes are if some aspects of the system are not exactly known. (from Wiki)
 
 
 ## 关于招生
@@ -26,62 +26,66 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 
 ### Ph.D. students
 
-- <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023-present)
-- <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/>  Kunyu Wu (joint with Prof. Yong Jiao, 2024-present)
+- <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023–present)
+- <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> Kunyu Wu (joint with Prof. Yong Jiao, 2024–present)
 
 ### M.S. students
 
-- <img src="../images/students/Wenqi_Chen.jpg" width="100"  align=center/> Wenqi Chen (2026-)
-- <img src="../images/students/Kuiyuan_Zheng.jpg" width="100"  align=center/> Kuiyuan Zheng (2026-)
-- <img src="../images/students/Yusen_Zhang.jpg" width="100"  align=center/> Yusen Zhang (2026-)
-- <img src="../images/students/Jiasi_Xing.jpg" width="100"  align=center/> Jiasi Xing (2026-)
-- <img src="../images/students/Longying_He.jpg" width="100"  align=center/> Longying He (2025-)
-- <img src="../images/students/Chuandi_Zhou.jpg" width="100"  align=center/> Chuandi Zhou (2025-)
-- <img src="../images/students/Hao_Wang.jpg" width="100"  align=center/> Hao Wang (2025-)
-- <img src="../images/students/Zhifeng_Qin.jpg" width="100"  align=center/> Zhifeng Qin (2025-)
-- <img src="../images/students/Yifei_Liu.jpg" width="100"  align=center/> Yifei Liu (2025-)
-- <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024-present)
-- <img src="../images/students/Shiyang_Bian.png" width="100"  align=center/> Shiyang Bian (2024-present)
-- <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024-present)
+- <img src="../images/students/Wenqi_Chen.jpg" width="100"  align=center/> Wenqi Chen (2026–present)
+- <img src="../images/students/Kuiyuan_Zheng.jpg" width="100"  align=center/> Kuiyuan Zheng (2026–present)
+- <img src="../images/students/Yusen_Zhang.jpg" width="100"  align=center/> Yusen Zhang (2026–present)
+- <img src="../images/students/Jiasi_Xing.jpg" width="100"  align=center/> Jiasi Xing (2026–present)
+- <img src="../images/students/Longying_He.jpg" width="100"  align=center/> Longying He (2025–present)
+- <img src="../images/students/Chuandi_Zhou.jpg" width="100"  align=center/> Chuandi Zhou (2025–present)
+- <img src="../images/students/Hao_Wang.jpg" width="100"  align=center/> Hao Wang (2025–present)
+- <img src="../images/students/Zhifeng_Qin.jpg" width="100"  align=center/> Zhifeng Qin (2025–present)
+- <img src="../images/students/Yifei_Liu.jpg" width="100"  align=center/> Yifei Liu (2025–present)
+- <img src="../images/students/Yufan_Chen.jpg" width="100"  align=center/> Yufan Zhang (2024–present)
+- <img src="../images/students/Shiyang_Bian.png" width="100"  align=center/> Shiyang Bian (2024–present)
+- <img src="../images/students/Ziyan_Huang.jpg" width="100"  align=center/> Ziyan Huang (2024–present)
 
 ### Former M.S. students
 
 <!-- <img src="../images/students/Ying_Zhou.png" width="100"  align=center/> -->
-- Ying Zhou (joint with Prof. Lian Wu, 2020-2022. Future career: Ph.D, Central South University)
+- Ying Zhou (joint with Prof. Lian Wu, 2020–2022. Destination after graduation: Ph.D., Central South University)
 <!-- - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> -->
-- Hongji Wang (joint with Prof. Tiexin Guo, 2021-2023. Future career: Ph.D, Central South University)
+- Hongji Wang (joint with Prof. Tiexin Guo, 2021–2023. Destination after graduation: Ph.D., Central South University)
 <!-- - <img src="../images/students/Zheng_Hu.jpg" width="100"  align=center/> -->
-- Zheng Hu (joint with Prof. Tiexin Guo, 2021-2023. Future career: government staff)
+- Zheng Hu (joint with Prof. Tiexin Guo, 2021–2023. Destination after graduation: government staff)
 <!-- <img src="../images/students/Yingyu_Yang.jpg" width="100"  align=center/> -->
-- Jingyu Yang (joint with Prof. Hebai Chen, 2021-2024. Future career: IOE)
+- Jingyu Yang (joint with Prof. Hebai Chen, 2021–2024. Destination after graduation: IOE)
 <!--  <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> -->
-- Kunyu Wu (joint with Prof. Yong Jiao, 2021-2024. Future career: Ph.D, Central South University)
+- Kunyu Wu (joint with Prof. Yong Jiao, 2021–2024. Destination after graduation: Ph.D., Central South University)
 <!-- <img src="../images/students/Juan_Cheng.jpg" width="100"  align=center/> -->
-- Juan Cheng (joint with Prof. Yuanyuan Liu, 2021-2024)
+- Juan Cheng (joint with Prof. Yuanyuan Liu, 2021–2024)
 <!-- <img src="../images/students/Run_Zhang.jpg" width="100"  align=center/> -->
-- Run Zhang (joint with Prof. Junping Li, 2022-2024)
+- Run Zhang (joint with Prof. Junping Li, 2022–2024)
 <!-- > <img src="../images/students/Xiao_Zhang.jpg" width="100"  align=center/> -->
-<!-- Xiao Zhang (joint with Prof. Dejian Zhou, 2022-present) -->
+<!-- Xiao Zhang (joint with Prof. Dejian Zhou, 2022–present) -->
 <!-- - <img src="../images/students/Mengyao_Liu.jpg" width="100"  align=center/> -->
-- Mengyao Liu (joint with Prof. Yong Jiao, 2022-2025)
+- Mengyao Liu (joint with Prof. Yong Jiao, 2022–2025)
 <!-- - <img src="../images/students/tangpucheng.jpg" width="100"  align=center/> -->
-- Pucheng Tang (joint with Prof. Yong Jiao, 2022-2025. Future career: Ph.D, Wuhan University)
+- Pucheng Tang (joint with Prof. Yong Jiao, 2022–2025. Destination after graduation: Ph.D., Wuhan University)
 <!-- - <img src="../images/students/xujiale.jpg" width="100"  align=center/>  -->
-- Jiale Xu (joint with Prof. Qingping Zhou and Prof. Cunqiang Miao, 2023-2026. Future career: Huawei)
+- Jiale Xu (joint with Prof. Qingping Zhou and Prof. Cunqiang Miao, 2023–2026. Destination after graduation: Huawei)
 <!-- - <img src="../images/students/chenbeibei.jpg" width="100"  align=center/>  -->
-- Beibei Chen (2023-2026. Future career: Ph.D, Xi'an Jiaotong Univerity)
+- Beibei Chen (2023–2026. Destination after graduation: Ph.D., Xi'an Jiaotong University)
 <!--- <img src="../images/students/xiaozhiwen.jpg" width="100"  align=center/>  -->
-- Zhiwen Xiao (2023-2026. Future career: Government staff)
+- Zhiwen Xiao (2023–2026. Destination after graduation: government staff)
 <!--- <img src="../images/students/yejinfu.jpg" width="100"  align=center/>  -->
-- Jinfu Ye (2023-2026. Future career: Huawei)
+- Jinfu Ye (2023–2026. Destination after graduation: Huawei)
 
 ### Team building
+
+UQ team building (Sep 15, 2026)
+
+<img src="../images/team_picture/2026_9_15.jpg" width="400"  align=center/>
 
 Hiking at Taohualing Park (Jan. 12, 2025)
 
 <img src="../images/team_picture/2025_1_12_Hiking.jpg" width="400"  align=center/>
 
-UQ Team building (May. 20, 2024)
+UQ team building (May 20, 2024)
 
 <img src="../images/team_picture/2024_5_20.jpg" width="400"  align=center/>
 
@@ -93,7 +97,7 @@ Vacation at a Garden Villa (Jun. 21, 2023)
 
 <img src="../images/team_picture/2023_6.jpg" width="400"  align=center/>
 
-Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
+Hiking at Changsha Yanghu National Wetland Park (Oct. 18, 2022)
 
 <img src="../images/team_picture/2022_autumn.jpg" width="400"  align=center/>
 
@@ -112,8 +116,8 @@ Hiking at Changsha Yanghu National Wetland Park (Oct 18, 2022)
 - Yuanyuan Cao (2023, M.S., Shanghai University of Finance and Economics)
 - Yueqing Yuan (2023, M.S., Xiamen University)
 - Hongyi Guo (2023, M.S., Shenzhen University)
-- Yu Fu （2024, M.S.）
-- Chuyun Peng （2024, M.S., Sun Yat-sen University）
+- Yu Fu (2024, M.S.)
+- Chuyun Peng (2024, M.S., Sun Yat-sen University)
 - Yihang Yin (2024, M.S., The University of Edinburgh)
 - Shanmei Zhong (2024, M.S., Peking University)
 - Wei Zhou (2024, M.S., Zhejiang University)
