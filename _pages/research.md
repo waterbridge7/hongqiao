@@ -57,6 +57,8 @@ Qingping Zhou, Guixian Xu, Zhexin Wen, and Hongqiao Wang (2023). Anderson accele
 
 ## All Publications
 
+- Hao Wang, Hongqiao Wang and Jinglai Li (2026). Maximum Likelihood Estimation without Likelihoods: a Variational Smoothed Minimax Approach. accepted by *Transactions on Machine Learning Research*. [SC]
+
 - Chengze Du, Hongqiao Wang, Liang Yan, and Yufan Zhang (2027). Surrogate-assisted multilevel importance sampling method for failure probability estimation with fidelity-aware strategies. *ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering*, 13(1), 04026097. [DOI: 10.1061/AJRUA6.RUENG-2089](https://doi.org/10.1061/AJRUA6.RUENG-2089). [FP]
 
 - Hongdan Zheng, Hongqiao Wang, Pei Yin, Pengfei Wei, and Xiaofei Guan (2027). A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes. *Reliability Engineering & System Safety*, 277 (Part 2), 113047. [DOI: 10.1016/j.ress.2026.113047](https://doi.org/10.1016/j.ress.2026.113047). [FP]
