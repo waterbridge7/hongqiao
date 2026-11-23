@@ -28,7 +28,7 @@ UQ is the science of quantitative characterization and estimation of uncertainti
 
 - <img src="../images/students/Hongji_Wang.jpg" width="100"  align=center/> Hongji Wang (joint with Prof. Tiexin Guo, 2023–present)
 - <img src="../images/students/Kunyu_Wu.jpg" width="100"  align=center/> Kunyu Wu (joint with Prof. Yong Jiao, 2024–present)
-
+- <img src="../images/students/Tangchuan_Deng.jpg" width="100"  align=center/> Tangchuan Deng (joint with Prof. Jinyong Ying, 2026–present)
 ### M.S. students
 
 - <img src="../images/students/Wenqi_Chen.jpg" width="100"  align=center/> Wenqi Chen (2026–present)
